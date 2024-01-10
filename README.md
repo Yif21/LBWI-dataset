@@ -1,2 +1,2 @@
 # LBWI-dataset
-Laser beam welding image dataset (submission in proress/under review).
+Laser beam welding image dataset (submission in progress/under review).
